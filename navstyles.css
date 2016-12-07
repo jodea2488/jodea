@@ -1,0 +1,103 @@
+nav ul {
+  text-align:center;
+  list-style: none;
+  font-family: 'Raleway', sans-serif;
+  margin: 10px;
+  padding: 20px;
+  }
+
+
+nav li {
+  display: inline;
+  }
+
+li + li {border-left:5px solid white;}
+
+
+/*
+@import url(http://fonts.googleapis.com/css?family=Capriola);
+#cssmenu,
+#cssmenu ul,
+#cssmenu ul li,
+#cssmenu ul li a {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style: none;
+  line-height: 1;
+  display: block;
+  position: relative;
+  font-family: Capriola, Helvetica, sans-serif;
+}
+#cssmenu {
+  width: auto;
+  height: 40px;
+  padding-bottom: 4px;
+}
+#cssmenu.align-right {
+  float: right;
+}
+#cssmenu.align-right ul li {
+  float: right;
+  margin-right: 0;
+  margin-left: 4px;
+}
+#cssmenu.align-right ul li:first-child,
+#cssmenu.align-right ul li:first-child > a {
+  border-bottom-right-radius: 3px;
+}
+#cssmenu #bg-one,
+#cssmenu #bg-two,
+#cssmenu #bg-three,
+#cssmenu #bg-four {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+#cssmenu #bg-one {
+  height: 10px;
+  background: #0f71ba;
+}
+#cssmenu #bg-two {
+  height: 40px;
+  z-index: 2;
+}
+#cssmenu #bg-three {
+  bottom: 4px;
+  height: 40px;
+  z-index: 3;
+  background: #222222;
+}
+#cssmenu #bg-four {
+  bottom: 4px;
+  height: 40px;
+  z-index: 4;
+}
+
+#cssmenu ul li:hover,
+#cssmenu ul li.active {
+  background: #0f71ba;
+  color: #eeeeee;
+}
+
+#cssmenu ul li {
+  float: left;
+  margin-right: 4px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  z-index: 5;
+}
+#cssmenu ul li a {
+  padding: 15px 15px 10px 15px;
+  margin-bottom: 4px;
+  color: #000000;
+  font-size: 15px;
+  text-decoration: none;
+}
+#cssmenu ul li:first-child,
+#cssmenu ul li:first-child > a {
+  border-bottom-left-radius: 3px;
+}
+*/
