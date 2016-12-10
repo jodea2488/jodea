@@ -19,10 +19,13 @@
           <li class='active'> <a href="index.html">Home</a> </li>
           <li> <a href="bio.html">Bio</a> </li>
           <li> <a href="projectone/index.html">Project One</a> </li>
+          <li> <a href="teamsleepppt.html">One PPT</a> </li>
           <li> <a href="projecttwo/index.html">Project Two</a> </li>
+          <li> <a href="index.html">Two PPT</a> </li>
           <li> <a href="stylescape.html">Stylescape</a> </li>
           <li> <a href="animation/index.html">Animation One</a> </li>
           <li> <a href="animation/index2.html">Animation Two</a> </li>
+          <li> <a href="http://github.com/jodea2488">Animation Two</a> </li>
 
         </ul>
         </div>
